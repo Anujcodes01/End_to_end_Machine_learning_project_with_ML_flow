@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End_to_End_ML_Project_With_MLflow/mlruns/0/15dce2ef431d43209275da54e399b617/artifacts
+end_time: 1691859984574
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15dce2ef431d43209275da54e399b617
+run_name: spiffy-pig-109
+run_uuid: 15dce2ef431d43209275da54e399b617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691859981934
+status: 3
+tags: []
+user_id: ASUS

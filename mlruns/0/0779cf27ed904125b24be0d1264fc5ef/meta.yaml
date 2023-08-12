@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End_to_End_ML_Project_With_MLflow/mlruns/0/0779cf27ed904125b24be0d1264fc5ef/artifacts
+end_time: 1690737948088
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0779cf27ed904125b24be0d1264fc5ef
+run_name: valuable-midge-818
+run_uuid: 0779cf27ed904125b24be0d1264fc5ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690737938604
+status: 3
+tags: []
+user_id: HP
