@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End_to_End_ML_Project_With_MLflow/mlruns/0/57446ab4a40840728784656e1818596a/artifacts
+end_time: 1692275775309
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57446ab4a40840728784656e1818596a
+run_name: gaudy-foal-436
+run_uuid: 57446ab4a40840728784656e1818596a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692275770683
+status: 3
+tags: []
+user_id: ASUS
